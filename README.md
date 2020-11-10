@@ -9,7 +9,7 @@ Numpy 1.19.2<br/>
 Pillow 7.2.0<br/>
 ## Usage:
 ### Make datasets
-使用make_datass/目录下的make_dataset.m制作数据集，训练，验证，测试的图片分别保存在datasets/train，datasets/valid，datasets/test目录下	<br/>
+使用make_datasets/目录下的make_dataset.m制作数据集，训练，验证，测试的图片分别保存在datasets/train，datasets/valid，datasets/test目录下	<br/>
 ### Train
 运行`python main.py`进行训练	<br/>
 模型保存在checkpoints/目录下	<br/>
