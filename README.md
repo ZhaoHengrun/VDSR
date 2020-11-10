@@ -16,4 +16,4 @@ Pillow 7.2.0<br/>
 ### Test
 运行`python calc_psnr&output.py`进行测试，生成的图片保存在results/目录下	<br/>
 ### Eval
-`test.py`中写的psnr计算公式可能有误差，请使用make_datasets/目录下的`compute_psnr.m`计算psnr	<br/>
+`calc_psnr&output.py`中写的psnr计算公式可能有误差，请使用make_datasets/目录下的`compute_psnr.m`计算psnr	<br/>
